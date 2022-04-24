@@ -1,0 +1,48 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>ergfdsvvcx.jpg</filename>
+    <path>rhesus-PascalVOC-export/Annotations/ergfdsvvcx.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>259</width>
+        <height>194</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>monkey</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>162.22065609050856</xmin>
+        <ymin>27.62033981926697</ymin>
+        <xmax>217.8536236946477</xmax>
+        <ymax>87.4644101245255</ymax>
+    </bndbox>
+</object><object>
+    <name>monkey</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>13.062934375464538</xmin>
+        <ymin>49.76045364983337</ymin>
+        <xmax>115.12974699959946</xmax>
+        <ymax>145.33559991006797</ymax>
+    </bndbox>
+</object><object>
+    <name>monkey</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>197.48407769556025</xmin>
+        <ymin>150.81582589876854</ymin>
+        <xmax>259</xmax>
+        <ymax>190.2734530174126</ymax>
+    </bndbox>
+</object>
+</annotation>

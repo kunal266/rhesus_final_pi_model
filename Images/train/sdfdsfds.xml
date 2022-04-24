@@ -1,0 +1,37 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>sdfdsfds.jpg</filename>
+    <path>rhesus-PascalVOC-export/Annotations/sdfdsfds.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>315</width>
+        <height>160</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>monkey</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>154.5294771025832</xmin>
+        <ymin>7.845263010759188</ymin>
+        <xmax>315</xmax>
+        <ymax>160.00000000000003</ymax>
+    </bndbox>
+</object><object>
+    <name>monkey</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>18.13261485521358</xmin>
+        <ymin>4.379113084804159</ymin>
+        <xmax>140.91454586486216</xmax>
+        <ymax>134.11218285330028</ymax>
+    </bndbox>
+</object>
+</annotation>

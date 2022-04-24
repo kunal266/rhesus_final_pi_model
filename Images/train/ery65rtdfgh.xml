@@ -1,0 +1,59 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>ery65rtdfgh.jpg</filename>
+    <path>rhesus-PascalVOC-export/Annotations/ery65rtdfgh.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>275</width>
+        <height>183</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>monkey</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>23.332356689567852</xmin>
+        <ymin>47.972882933535814</ymin>
+        <xmax>77.71205436018175</xmax>
+        <ymax>104.2169523077496</ymax>
+    </bndbox>
+</object><object>
+    <name>monkey</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>113.2759578245923</xmin>
+        <ymin>43.010167913921805</ymin>
+        <xmax>144.0842316562968</xmax>
+        <ymax>101.94237130375231</ymax>
+    </bndbox>
+</object><object>
+    <name>monkey</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>155.14625857647192</xmin>
+        <ymin>22.12542530641716</ymin>
+        <xmax>202.37312030075185</xmax>
+        <ymax>78.0593220338983</ymax>
+    </bndbox>
+</object><object>
+    <name>monkey</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>162.69325421268778</xmin>
+        <ymin>80.43729129080045</ymin>
+        <xmax>245.19327314276444</xmax>
+        <ymax>139.36949468063096</ymax>
+    </bndbox>
+</object>
+</annotation>

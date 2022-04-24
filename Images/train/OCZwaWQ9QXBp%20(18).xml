@@ -1,0 +1,81 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>OCZwaWQ9QXBp%20(18).jpg</filename>
+    <path>rhesus-PascalVOC-export/Annotations/OCZwaWQ9QXBp%20(18).jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>338</width>
+        <height>225</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>monkey</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>18.613516835995746</xmin>
+        <ymin>29.83348931839217</ymin>
+        <xmax>65.3825070208631</xmax>
+        <ymax>205.26633333804003</ymax>
+    </bndbox>
+</object><object>
+    <name>monkey</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>30.17137792143623</xmin>
+        <ymin>74.96781562691305</ymin>
+        <xmax>163.48987313909512</xmax>
+        <ymax>196.13200088045494</ymax>
+    </bndbox>
+</object><object>
+    <name>monkey</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>131.23539997806134</xmin>
+        <ymin>147.50513930818929</ymin>
+        <xmax>181.49861245126897</xmax>
+        <ymax>209.8334893183922</ymax>
+    </bndbox>
+</object><object>
+    <name>monkey</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>180.96104610132176</xmin>
+        <ymin>92.43050219407723</ymin>
+        <xmax>255.68389662027835</xmax>
+        <ymax>212.25140386552954</ymax>
+    </bndbox>
+</object><object>
+    <name>monkey</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>262.40357852882704</xmin>
+        <ymin>109.8931887612414</ymin>
+        <xmax>315.89227112908486</xmax>
+        <ymax>195.5946956463714</ymax>
+    </bndbox>
+</object><object>
+    <name>monkey</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>241.43818327826014</xmin>
+        <ymin>48.37080172638395</ymin>
+        <xmax>335.7825131729156</xmax>
+        <ymax>177.5946833482429</ymax>
+    </bndbox>
+</object>
+</annotation>

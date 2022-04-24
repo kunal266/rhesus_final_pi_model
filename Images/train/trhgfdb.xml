@@ -1,0 +1,37 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>trhgfdb.jpg</filename>
+    <path>rhesus-PascalVOC-export/Annotations/trhgfdb.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>275</width>
+        <height>183</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>monkey</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>141.8222003929273</xmin>
+        <ymin>76.85055268549286</ymin>
+        <xmax>252.47052385671196</xmax>
+        <ymax>164.51780602784282</ymax>
+    </bndbox>
+</object><object>
+    <name>monkey</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>11.72396691702672</xmin>
+        <ymin>7.9691375799938635</ymin>
+        <xmax>136.8516798337925</xmax>
+        <ymax>182.99999999999997</ymax>
+    </bndbox>
+</object>
+</annotation>

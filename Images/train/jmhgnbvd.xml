@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>jmhgnbvd.jpg</filename>
+    <path>rhesus-PascalVOC-export/Annotations/jmhgnbvd.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>193</width>
+        <height>262</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>monkey</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>48.94324712643678</xmin>
+        <ymin>31.380792089774783</ymin>
+        <xmax>146.25663903481203</xmax>
+        <ymax>243.64520677469542</ymax>
+    </bndbox>
+</object>
+</annotation>

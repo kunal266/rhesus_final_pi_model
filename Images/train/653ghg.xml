@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>653ghg.jpg</filename>
+    <path>rhesus-PascalVOC-export/Annotations/653ghg.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>249</width>
+        <height>203</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>monkey</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>13.44571871038685</xmin>
+        <ymin>6.422599307561325</ymin>
+        <xmax>249</xmax>
+        <ymax>187.4022703871215</ymax>
+    </bndbox>
+</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>NCZwaWQ9QXBp%20(2).jpg</filename>
+    <path>rhesus-PascalVOC-export/Annotations/NCZwaWQ9QXBp%20(2).jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>169</width>
+        <height>225</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>monkey</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>6.829887218045113</xmin>
+        <ymin>15.508475546109473</ymin>
+        <xmax>151.17874776510368</xmax>
+        <ymax>186.35593996209613</ymax>
+    </bndbox>
+</object>
+</annotation>

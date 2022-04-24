@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>images%20(31).jpg</filename>
+    <path>rhesus-PascalVOC-export/Annotations/images%20(31).jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>275</width>
+        <height>183</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>monkey</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>34.91130090297612</xmin>
+        <ymin>14.267795821367683</ymin>
+        <xmax>160.62558503975544</xmax>
+        <ymax>164.80339929613015</ymax>
+    </bndbox>
+</object>
+</annotation>

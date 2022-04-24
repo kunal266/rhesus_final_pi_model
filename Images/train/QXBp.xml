@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>QXBp.jpg</filename>
+    <path>rhesus-PascalVOC-export/Annotations/QXBp.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>149</width>
+        <height>225</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>monkey</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>23.775674067580624</xmin>
+        <ymin>30.508474576271183</ymin>
+        <xmax>132.80936664508096</xmax>
+        <ymax>225</ymax>
+    </bndbox>
+</object>
+</annotation>

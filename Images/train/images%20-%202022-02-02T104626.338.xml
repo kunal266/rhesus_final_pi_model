@@ -1,0 +1,70 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>images%20-%202022-02-02T104626.338.jpg</filename>
+    <path>rhesus-PascalVOC-export/Annotations/images%20-%202022-02-02T104626.338.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>275</width>
+        <height>183</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>monkey</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>208.68290925831727</xmin>
+        <ymin>38.43682794143904</ymin>
+        <xmax>263.57357866958404</xmax>
+        <ymax>150.96817122502114</ymax>
+    </bndbox>
+</object><object>
+    <name>monkey</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>165.16401924148468</xmin>
+        <ymin>59.850557617642984</ymin>
+        <xmax>201.6848873191515</xmax>
+        <ymax>168.6672723684738</ymax>
+    </bndbox>
+</object><object>
+    <name>monkey</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>114.8658085058982</xmin>
+        <ymin>104.04369694724011</ymin>
+        <xmax>141.10835323750854</xmax>
+        <ymax>175.71415137675268</ymax>
+    </bndbox>
+</object><object>
+    <name>monkey</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>47.509945363221064</xmin>
+        <ymin>66.18727736971272</ymin>
+        <xmax>140.23359840954274</xmax>
+        <ymax>174.34847973496164</ymax>
+    </bndbox>
+</object><object>
+    <name>monkey</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>4.428432760371366</xmin>
+        <ymin>45.210564285961546</ymin>
+        <xmax>74.4085520446656</xmax>
+        <ymax>121.68816789086185</ymax>
+    </bndbox>
+</object>
+</annotation>

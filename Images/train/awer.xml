@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>awer.jpg</filename>
+    <path>rhesus-PascalVOC-export/Annotations/awer.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>275</width>
+        <height>183</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>monkey</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>91.56543150880282</xmin>
+        <ymin>25.640677177299885</ymin>
+        <xmax>256.56545359389224</xmax>
+        <ymax>132.75255183850302</ymax>
+    </bndbox>
+</object>
+</annotation>

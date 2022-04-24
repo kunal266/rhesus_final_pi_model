@@ -1,0 +1,37 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>6576ghfg.jpg</filename>
+    <path>rhesus-PascalVOC-export/Annotations/6576ghfg.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>223</width>
+        <height>226</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>monkey</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>3.965600087512872</xmin>
+        <ymin>5.618078608970857</ymin>
+        <xmax>98.7885285735472</xmax>
+        <ymax>72.77966101694916</ymax>
+    </bndbox>
+</object><object>
+    <name>monkey</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>121.53581041046407</xmin>
+        <ymin>6.128815020545054</ymin>
+        <xmax>223.00000000000003</xmax>
+        <ymax>78.9084784728659</ymax>
+    </bndbox>
+</object>
+</annotation>

@@ -1,0 +1,70 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>OCZwaWQ9QXBp%20(12).jpg</filename>
+    <path>rhesus-PascalVOC-export/Annotations/OCZwaWQ9QXBp%20(12).jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>338</width>
+        <height>225</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>monkey</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>4.6365866689511375</xmin>
+        <ymin>6.460358064566086</ymin>
+        <xmax>79.89701379127578</xmax>
+        <ymax>111.77378782585485</ymax>
+    </bndbox>
+</object><object>
+    <name>monkey</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>73.44612531112155</xmin>
+        <ymin>4.04244607953883</ymin>
+        <xmax>331.2131376778392</xmax>
+        <ymax>123.32602458213694</ymax>
+    </bndbox>
+</object><object>
+    <name>monkey</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>207.8397737355166</xmin>
+        <ymin>106.66931636297882</ymin>
+        <xmax>301.6465372802249</xmax>
+        <ymax>214.40066579562517</ymax>
+    </bndbox>
+</object><object>
+    <name>monkey</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>114.57057654075547</xmin>
+        <ymin>94.31110125869068</ymin>
+        <xmax>200.85128814515252</xmax>
+        <ymax>219.5051270100608</ymax>
+    </bndbox>
+</object><object>
+    <name>monkey</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>23.720479187861116</xmin>
+        <ymin>103.4454337162758</ymin>
+        <xmax>100.0560595169219</xmax>
+        <ymax>208.49020573630264</ymax>
+    </bndbox>
+</object>
+</annotation>

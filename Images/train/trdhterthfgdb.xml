@@ -1,0 +1,59 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>trdhterthfgdb.jpg</filename>
+    <path>rhesus-PascalVOC-export/Annotations/trdhterthfgdb.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>275</width>
+        <height>183</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>monkey</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>70.28978718755755</xmin>
+        <ymin>66.05409250850171</ymin>
+        <xmax>144.63163724348445</xmax>
+        <ymax>156.960283903949</ymax>
+    </bndbox>
+</object><object>
+    <name>monkey</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>41.763262945448716</xmin>
+        <ymin>3.2186955139700286</ymin>
+        <xmax>90.82023905396227</xmax>
+        <ymax>58.4965703846079</ymax>
+    </bndbox>
+</object><object>
+    <name>monkey</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>100.32908321597955</xmin>
+        <ymin>6.241705599084364</ymin>
+        <xmax>171.21315976725577</xmax>
+        <ymax>91.31781097007008</ymax>
+    </bndbox>
+</object><object>
+    <name>monkey</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>143.33498042318345</xmin>
+        <ymin>11.424005660335574</ymin>
+        <xmax>258.95382444610294</xmax>
+        <ymax>128.67356153505037</ymax>
+    </bndbox>
+</object>
+</annotation>

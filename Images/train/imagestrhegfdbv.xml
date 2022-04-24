@@ -1,0 +1,37 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>imagestrhegfdbv.jpg</filename>
+    <path>rhesus-PascalVOC-export/Annotations/imagestrhegfdbv.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>275</width>
+        <height>183</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>monkey</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>59.75646290106043</xmin>
+        <ymin>16.804589969008717</ymin>
+        <xmax>191.406563973095</xmax>
+        <ymax>176.9705626188819</ymax>
+    </bndbox>
+</object><object>
+    <name>monkey</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>130.83002989145206</xmin>
+        <ymin>3.694142207814686</ymin>
+        <xmax>275</xmax>
+        <ymax>179.15563724574756</ymax>
+    </bndbox>
+</object>
+</annotation>

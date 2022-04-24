@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>rtytryetryfgh.jpg</filename>
+    <path>rhesus-PascalVOC-export/Annotations/rtytryetryfgh.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>209</width>
+        <height>241</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>monkey</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>50.990549590766236</xmin>
+        <ymin>41.119775050104</ymin>
+        <xmax>155.83094047024505</xmax>
+        <ymax>208.04972166934257</ymax>
+    </bndbox>
+</object>
+</annotation>
